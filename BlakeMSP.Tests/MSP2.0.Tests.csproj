@@ -92,9 +92,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BlakeMSP\BlakeMSP.csproj">
+    <ProjectReference Include="..\BlakeMSP\MSP2.0.csproj">
       <Project>{99856F54-6394-4C0A-87F8-C4D185E1BBC4}</Project>
-      <Name>BlakeMSP</Name>
+      <Name>MSP2.0</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
