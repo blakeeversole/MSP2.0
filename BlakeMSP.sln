@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSP2.0", "BlakeMSP\MSP2.0.csproj", "{99856F54-6394-4C0A-87F8-C4D185E1BBC4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlakeMSP", "BlakeMSP\BlakeMSP.csproj", "{99856F54-6394-4C0A-87F8-C4D185E1BBC4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSP2.0.Tests", "BlakeMSP.Tests\MSP2.0.Tests.csproj", "{3F04186B-AF81-4D0B-9EF1-31062AE6D730}"
 EndProject

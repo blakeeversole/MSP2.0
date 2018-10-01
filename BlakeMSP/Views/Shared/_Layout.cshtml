@@ -17,9 +17,12 @@
             <ul class="nav navbar-nav">
                 <li class="dropdown"><a class="dropdown-toggle whiteText" data-toggle="dropdown" href="#">Modules <span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                        <li><a href="#">Profile Search</a></li>
-                        <li><a href="#">Page 2</a></li>
-                        <li><a href="#">Page 3</a></li>
+                        <li><a href="@Url.Action("ProfileSearch", "Home")">Profile Search</a>
+                            
+                            @*@Html.ActionLink("ProfileSearch", "Index", "ProfileSearch", new { @class = "navbar-brand" })*@    
+                        </li>
+                        <li><a href="#">Profile Student Page</a></li>
+                        <li><a href="#">Page Parent Page</a></li>
                     </ul>
                 </li>
                 <li class="whiteText">

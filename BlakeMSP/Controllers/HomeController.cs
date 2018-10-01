@@ -12,5 +12,10 @@ namespace BlakeMSP.Controllers
         {
             return View();
         }
+
+        public ActionResult ProfileSearch()
+        {
+            return View();
+        }
     }
 }
